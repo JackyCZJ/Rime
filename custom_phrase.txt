@@ -16,7 +16,6 @@
 
 中州韻輸入法引擎	rime	2
 又双叒叕	yyy
-http://rime.im/	rime	1
 Rime	rime	3
 ⌘	cmd
 ⌃	ctl
@@ -24,6 +23,7 @@ Rime	rime	3
 ⇧	shift
 GBK	gbk
 UTF-8	utfba
+UTF-8	utf8
 macOS High Sierra	macos	2
 macOS Mojave	macos	3
 macOS	macos	4
@@ -45,6 +45,8 @@ SQL	sql
 Objective-C	ojbc
 Ruby	ruby
 Rust	rust
+Go	go
+Golang	golang
 WeChat	wechat
 Swift	swift
 MacBook Pro	mbp
